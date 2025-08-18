@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
