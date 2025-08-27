@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
