@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0071-simplify-path) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
