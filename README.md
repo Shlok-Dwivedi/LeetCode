@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0071-simplify-path) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
