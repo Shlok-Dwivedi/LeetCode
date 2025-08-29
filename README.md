@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0319-bulb-switcher) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
