@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
