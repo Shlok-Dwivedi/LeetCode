@@ -1,7 +1,8 @@
 int countNumbersWithUniqueDigits(int n) {
     int count = 0;
     int limit = 1;
-    for (int i = 0; i < n; i++) limit *= 10;   // instead of 10**n
+    for (int i = 0; i < n; i++) limit *= 10;
+
 
     for (int i = 0; i < limit; i++) {
         int seen[10] = {0};  // track digits used
