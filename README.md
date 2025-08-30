@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
