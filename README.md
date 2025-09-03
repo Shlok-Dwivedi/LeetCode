@@ -221,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
