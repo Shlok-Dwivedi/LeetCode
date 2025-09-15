@@ -234,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
