@@ -241,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0619-biggest-single-number) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1670-patients-with-a-condition](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
