@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
 ## Database
 |  |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0223-rectangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
