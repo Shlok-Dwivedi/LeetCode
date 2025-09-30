@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0072-edit-distance) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String Matching
