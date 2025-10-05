@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
+| [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
