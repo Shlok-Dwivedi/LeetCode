@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Number Theory
 |  |
