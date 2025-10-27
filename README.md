@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
