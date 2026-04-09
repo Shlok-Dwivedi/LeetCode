@@ -1,11 +1,9 @@
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        str1=str(n)
-        res=0
-        num=0
-        for i in str1:
-            if i!='0':
-                res+=int(i)
-                num=num*10+int(i)
-            
-        return num*res       
+        n=str(n).replace("0","")
+        s=0
+        if n!="":
+            for i in n:
+                s+=int(i)
+            return int(n)*s
+        return 0
