@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0263-ugly-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
