@@ -1,7 +1,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int left = 0;  // buy day
-        int right = 1; // sell day
+        int left = 0;
+        int right = 1;
 
         int maxProfit = 0;
 
@@ -10,7 +10,7 @@ class Solution {
                 int profit = prices[right] - prices[left];
                 maxProfit = Math.max(maxProfit, profit);
             } else {
-                left = right; // found cheaper buying price
+                left = right;
             }
 
             right++;
