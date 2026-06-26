@@ -7,13 +7,11 @@ class Solution {
             char c1 = Character.toLowerCase(s.charAt(start));
             char c2 = Character.toLowerCase(s.charAt(end));
 
-            // Skip non-alphanumeric from left
             if (!((c1 >= 'a' && c1 <= 'z') || (c1 >= '0' && c1 <= '9'))) {
                 start++;
                 continue;
             }
 
-            // Skip non-alphanumeric from right
             if (!((c2 >= 'a' && c2 <= 'z') || (c2 >= '0' && c2 <= '9'))) {
                 end--;
                 continue;
