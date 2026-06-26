@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
