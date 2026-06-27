@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0056-merge-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
