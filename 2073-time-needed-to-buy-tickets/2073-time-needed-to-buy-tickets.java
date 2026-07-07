@@ -1,7 +1,7 @@
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
         int count=0;
-        Queue<Integer> q=new LinkedList<>();
+        Queue<Integer> q=new ArrayDeque<>();
         for(int t:tickets){
             q.add(t);
         }
