@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Brainteaser
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Combinatorics
 |  |
 | ------- |
