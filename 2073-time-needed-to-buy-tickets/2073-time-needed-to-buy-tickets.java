@@ -5,7 +5,6 @@ class Solution {
         for(int t:tickets){
             q.add(t);
         }
-        int c=Integer.MAX_VALUE;
         while (true) {
             int t = q.poll();
             if (k == 0 && t == 1) {
