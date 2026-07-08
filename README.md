@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
