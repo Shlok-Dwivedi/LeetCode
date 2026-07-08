@@ -20,7 +20,6 @@ class Solution {
             int prev = (int)(max % restSum);
             if (prev == 0) prev = (int)restSum;
             if (prev == max) return false;
-
             maxHeap.offer(prev);
             sum = restSum + prev;
         }
