@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0326-power-of-three) |
