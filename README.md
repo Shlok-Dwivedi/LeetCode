@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
