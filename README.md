@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 ## Linked List
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Monotonic Stack
 |  |
