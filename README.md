@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Merge Sort
 |  |
 | ------- |
