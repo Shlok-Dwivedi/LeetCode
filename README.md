@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
