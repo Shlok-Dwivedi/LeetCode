@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0482-license-key-formatting) |
+| [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
 | [0831-masking-personal-information](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0831-masking-personal-information) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1200-minimum-absolute-difference) |
