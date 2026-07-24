@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Merge Sort
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Trie
 |  |
 | ------- |
