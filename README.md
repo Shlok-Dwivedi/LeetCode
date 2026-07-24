@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0443-string-compression) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
