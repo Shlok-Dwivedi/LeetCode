@@ -522,12 +522,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0322-coin-change) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -564,5 +567,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
