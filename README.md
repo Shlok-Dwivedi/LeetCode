@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0412-fizz-buzz) |
