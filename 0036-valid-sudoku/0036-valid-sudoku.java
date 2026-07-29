@@ -1,35 +1,37 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
 
+        HashSet<Character>[] rows = new HashSet[9];
+        HashSet<Character>[] cols = new HashSet[9];
+        HashSet<Character>[] boxes = new HashSet[9];
+
+        for (int i = 0; i < 9; i++) {
+            rows[i] = new HashSet<>();
+            cols[i] = new HashSet<>();
+            boxes[i] = new HashSet<>();
+        }
+
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
 
-                if (board[i][j] != '.') {
-
-                    for (int k = 0; k < 9; k++) {
-                        if (k != j && board[i][j] == board[i][k]) {
-                            return false;
-                        }
-                    }
-
-                    for (int k = 0; k < 9; k++) {
-                        if (k != i && board[i][j] == board[k][j]) {
-                            return false;
-                        }
-                    }
-
-                    // Check 3x3 box
-                    int rowStart = i - (i % 3);
-                    int colStart = j - (j % 3);
-
-                    for (int l = rowStart; l < rowStart + 3; l++) {
-                        for (int m = colStart; m < colStart + 3; m++) {
-                            if ((l != i || m != j) && board[i][j] == board[l][m]) {
-                                return false;
-                            }
-                        }
-                    }
+                if (board[i][j] == '.') {
+                    continue;
                 }
+
+                char num = board[i][j];
+
+                // Box number: 0 to 8
+                int box = (i / 3) * 3 + (j / 3);
+
+                if (rows[i].contains(num) ||
+                    cols[j].contains(num) ||
+                    boxes[box].contains(num)) {
+                    return false;
+                }
+
+                rows[i].add(num);
+                cols[j].add(num);
+                boxes[box].add(num);
             }
         }
 
