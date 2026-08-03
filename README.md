@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0412-fizz-buzz) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
