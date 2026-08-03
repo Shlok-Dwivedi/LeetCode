@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1768-merge-strings-alternately](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
