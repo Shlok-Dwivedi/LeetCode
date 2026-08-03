@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0368-largest-divisible-subset) |
