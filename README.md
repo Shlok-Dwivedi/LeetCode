@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
