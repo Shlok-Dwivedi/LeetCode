@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0443-string-compression) |
