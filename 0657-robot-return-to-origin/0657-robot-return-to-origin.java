@@ -1,24 +1,16 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        int vertical_magnitude=0;
-        int horizontal_magnitude=0;
-        for(int i=0;i<moves.length();i++){
-            if(moves.charAt(i)=='L'){
-                horizontal_magnitude--;
-            }
-            else if(moves.charAt(i)=='R'){
-                horizontal_magnitude++;
-            }
-            else if(moves.charAt(i)=='D'){
-                vertical_magnitude--;
-            }
-            else {
-                vertical_magnitude++;
+        int x = 0, y = 0;
+
+        for (int i = 0; i < moves.length(); i++) {
+            switch (moves.charAt(i)) {
+                case 'L': x--; break;
+                case 'R': x++; break;
+                case 'U': y++; break;
+                case 'D': y--; break;
             }
         }
-        if(horizontal_magnitude==0 && vertical_magnitude==0){
-            return true;
-        }
-        return false;
+
+        return x == 0 && y == 0;
     }
 }
