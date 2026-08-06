@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
