@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
