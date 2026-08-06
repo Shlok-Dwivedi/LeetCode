@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1672-richest-customer-wealth](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1672-richest-customer-wealth](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
