@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1041-robot-bounded-in-circle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
 | [0831-masking-personal-information](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0831-masking-personal-information) |
+| [1041-robot-bounded-in-circle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0735-asteroid-collision) |
+| [1041-robot-bounded-in-circle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1048-clumsy-factorial](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
