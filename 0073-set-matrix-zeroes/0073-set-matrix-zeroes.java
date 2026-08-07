@@ -11,11 +11,13 @@ class Solution {
                 }
             }
         }
+        //zero rows
         for(int i=0;i<m;i++){
             if(rows[i]){
                 for(int j=0;j<n;j++) matrix[i][j]=0;
             }
         }
+        //zero columns
         for(int j=0;j<n;j++){
             if(cols[j]){
                 for(int i=0;i<m;i++) matrix[i][j]=0;
