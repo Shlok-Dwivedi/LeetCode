@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0069-sqrtx) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0072-edit-distance) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
