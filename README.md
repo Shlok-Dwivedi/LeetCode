@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1670-patients-with-a-condition](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1670-patients-with-a-condition) |
 ## Geometry
