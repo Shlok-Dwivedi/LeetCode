@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Merge Sort
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Stack
 |  |
 | ------- |
