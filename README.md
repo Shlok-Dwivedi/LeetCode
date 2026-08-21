@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2652-sum-multiples) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Database
 |  |
 | ------- |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Breadth-First Search
 |  |
 | ------- |
