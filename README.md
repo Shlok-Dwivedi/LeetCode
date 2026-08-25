@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Merge Sort
 |  |
