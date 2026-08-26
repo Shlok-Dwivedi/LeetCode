@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
