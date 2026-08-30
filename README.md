@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1927-sum-game) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
