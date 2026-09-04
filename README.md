@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0912-sort-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Brainteaser
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
