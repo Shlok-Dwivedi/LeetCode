@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0198-house-robber) |
