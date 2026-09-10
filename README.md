@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Interactive
 |  |
 | ------- |
