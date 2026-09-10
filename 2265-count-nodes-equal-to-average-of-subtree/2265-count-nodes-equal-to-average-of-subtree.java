@@ -14,26 +14,51 @@
  * }
  */
 class Solution {
-    int count=0;
+    int ans = 0;
 
     public int averageOfSubtree(TreeNode root) {
-        solve(root);
-        return count;
-    }
+        if(root == null)
+            return 0;
 
-    public int[] solve(TreeNode root) {
-        if(root==null)
-            return new int[]{0,0};
+        Stack<TreeNode> stack = new Stack<>();
+        Stack<int[]> values = new Stack<>();
+        stack.push(root);
 
-        int[] left=solve(root.left);
-        int[] right=solve(root.right);
+        while(!stack.isEmpty()){
+            TreeNode node = stack.pop();
 
-        int sum=left[0]+right[0]+root.val;
-        int nodes=left[1]+right[1]+1;
+            if(node != null){
+                stack.push(node);
+                stack.push(null);
 
-        if(sum/nodes==root.val)
-            count++;
+                if(node.right != null) stack.push(node.right);
+                if(node.left != null) stack.push(node.left);
+            }
+            else{
+                TreeNode cur = stack.pop();
 
-        return new int[]{sum,nodes};
+                int sum = cur.val;
+                int count = 1;
+
+                if(cur.left != null){
+                    int[] x = values.pop();
+                    sum += x[0];
+                    count += x[1];
+                }
+
+                if(cur.right != null){
+                    int[] x = values.pop();
+                    sum += x[0];
+                    count += x[1];
+                }
+
+                if(sum / count == cur.val)
+                    ans++;
+
+                values.push(new int[]{sum, count});
+            }
+        }
+
+        return ans;
     }
 }
