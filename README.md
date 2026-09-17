@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0835-image-overlap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -741,12 +743,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0322-coin-change) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Knapsack Problem
 |  |
