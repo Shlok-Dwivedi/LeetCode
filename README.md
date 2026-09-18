@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0788-rotated-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0897-prime-palindrome](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0897-prime-palindrome) |
 | [0976-largest-perimeter-triangle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0788-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1013-fibonacci-number) |
