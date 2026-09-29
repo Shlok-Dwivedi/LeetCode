@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0831-masking-personal-information) |
 | [0940-distinct-subsequences-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
