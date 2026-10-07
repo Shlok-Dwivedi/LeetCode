@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0394-decode-string) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0322-coin-change) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
