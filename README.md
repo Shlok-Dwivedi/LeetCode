@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
