@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1306-jump-game-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1306-jump-game-iii) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1386-cinema-seat-allocation](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0322-coin-change) |
+| [1306-jump-game-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1306-jump-game-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
