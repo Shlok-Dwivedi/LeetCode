@@ -20,7 +20,6 @@ class Solution {
 
         visited[i] = true;
 
-        return dfs(arr, i + arr[i], visited)
-            || dfs(arr, i - arr[i], visited);
+        return dfs(arr, i + arr[i], visited) || dfs(arr, i - arr[i], visited);
     }
 }
