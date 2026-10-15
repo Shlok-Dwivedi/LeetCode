@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2615-sum-of-distances) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -941,4 +943,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
