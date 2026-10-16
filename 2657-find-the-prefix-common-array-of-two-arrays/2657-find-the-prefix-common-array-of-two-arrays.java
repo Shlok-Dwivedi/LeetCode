@@ -1,20 +1,24 @@
-import java.util.*;
-
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
         int n = A.length;
         int[] C = new int[n];
-        TreeSet<Integer> seenA = new TreeSet<>();
-        TreeSet<Integer> seenB = new TreeSet<>();
+        boolean[] seen = new boolean[n + 1];
         int count = 0;
 
         for (int i = 0; i < n; i++) {
-            seenA.add(A[i]);
-            seenB.add(B[i]);
+            seen[A[i]] = true;
+            seen[B[i]] = true;
 
-            for (int x : seenA) {
-                if (seenB.contains(x)) {
-                    count++;
+            for (int j = 1; j <= n; j++) {
+                if (seen[j]) {
+                    boolean inA = false, inB = false;
+
+                    for (int k = 0; k <= i; k++) {
+                        if (A[k] == j) inA = true;
+                        if (B[k] == j) inB = true;
+                    }
+
+                    if (inA && inB) count++;
                 }
             }
 
