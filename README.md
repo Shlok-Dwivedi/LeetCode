@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2363-merge-similar-items](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2363-merge-similar-items) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
