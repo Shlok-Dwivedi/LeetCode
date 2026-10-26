@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shlok-Dwivedi/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
