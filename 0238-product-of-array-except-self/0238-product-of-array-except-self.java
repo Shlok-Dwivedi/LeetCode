@@ -5,6 +5,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==0){
                 num_zeroes+=1;
+                if(num_zeroes>1){
+                    break;
+                }
             }
             else{
                 product=product*nums[i];
